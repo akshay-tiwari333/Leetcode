@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/akshay-tiwari333/Leetcode/tree/master/0047-permutations-ii) |
 | [0283-move-zeroes](https://github.com/akshay-tiwari333/Leetcode/tree/master/0283-move-zeroes) |
 | [1406-stone-game-iii](https://github.com/akshay-tiwari333/Leetcode/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/akshay-tiwari333/Leetcode/tree/master/3731-find-missing-elements) |
@@ -14,6 +15,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/akshay-tiwari333/Leetcode/tree/master/0047-permutations-ii) |
 | [3731-find-missing-elements](https://github.com/akshay-tiwari333/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -44,4 +46,8 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/akshay-tiwari333/Leetcode/tree/master/0283-move-zeroes) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/akshay-tiwari333/Leetcode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->

@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/akshay-tiwari333/Leetcode/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/akshay-tiwari333/Leetcode/tree/master/0067-add-binary) |
 | [1406-stone-game-iii](https://github.com/akshay-tiwari333/Leetcode/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akshay-tiwari333/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
@@ -59,4 +60,16 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/akshay-tiwari333/Leetcode/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/akshay-tiwari333/Leetcode/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/akshay-tiwari333/Leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/akshay-tiwari333/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->

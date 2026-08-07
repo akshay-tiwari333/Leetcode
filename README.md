@@ -20,6 +20,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/akshay-tiwari333/Leetcode/tree/master/0002-add-two-numbers) |
 | [1406-stone-game-iii](https://github.com/akshay-tiwari333/Leetcode/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akshay-tiwari333/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
@@ -50,4 +51,12 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/akshay-tiwari333/Leetcode/tree/master/0047-permutations-ii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/akshay-tiwari333/Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/akshay-tiwari333/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/akshay-tiwari333/Leetcode/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/akshay-tiwari333/Leetcode/tree/master/0056-merge-intervals) |
 | [0283-move-zeroes](https://github.com/akshay-tiwari333/Leetcode/tree/master/0283-move-zeroes) |
 | [0989-add-to-array-form-of-integer](https://github.com/akshay-tiwari333/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1406-stone-game-iii](https://github.com/akshay-tiwari333/Leetcode/tree/master/1406-stone-game-iii) |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/akshay-tiwari333/Leetcode/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/akshay-tiwari333/Leetcode/tree/master/0056-merge-intervals) |
 | [3731-find-missing-elements](https://github.com/akshay-tiwari333/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -74,4 +76,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/akshay-tiwari333/Leetcode/tree/master/0067-add-binary) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/akshay-tiwari333/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->

@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/akshay-tiwari333/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/akshay-tiwari333/Leetcode/tree/master/0013-roman-to-integer) |
 | [3731-find-missing-elements](https://github.com/akshay-tiwari333/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -27,6 +28,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/akshay-tiwari333/Leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/akshay-tiwari333/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/akshay-tiwari333/Leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/akshay-tiwari333/Leetcode/tree/master/0067-add-binary) |
 | [0989-add-to-array-form-of-integer](https://github.com/akshay-tiwari333/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1406-stone-game-iii](https://github.com/akshay-tiwari333/Leetcode/tree/master/1406-stone-game-iii) |
@@ -71,6 +73,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/akshay-tiwari333/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/akshay-tiwari333/Leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/akshay-tiwari333/Leetcode/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |

@@ -9,6 +9,7 @@
 | [0056-merge-intervals](https://github.com/akshay-tiwari333/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/akshay-tiwari333/Leetcode/tree/master/0057-insert-interval) |
 | [0283-move-zeroes](https://github.com/akshay-tiwari333/Leetcode/tree/master/0283-move-zeroes) |
+| [0503-next-greater-element-ii](https://github.com/akshay-tiwari333/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0989-add-to-array-form-of-integer](https://github.com/akshay-tiwari333/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1406-stone-game-iii](https://github.com/akshay-tiwari333/Leetcode/tree/master/1406-stone-game-iii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/akshay-tiwari333/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -115,4 +116,12 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akshay-tiwari333/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/akshay-tiwari333/Leetcode/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/akshay-tiwari333/Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->

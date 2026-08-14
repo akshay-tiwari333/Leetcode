@@ -9,6 +9,7 @@
 | [0049-group-anagrams](https://github.com/akshay-tiwari333/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/akshay-tiwari333/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/akshay-tiwari333/Leetcode/tree/master/0057-insert-interval) |
+| [0084-largest-rectangle-in-histogram](https://github.com/akshay-tiwari333/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0283-move-zeroes](https://github.com/akshay-tiwari333/Leetcode/tree/master/0283-move-zeroes) |
 | [0503-next-greater-element-ii](https://github.com/akshay-tiwari333/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0989-add-to-array-form-of-integer](https://github.com/akshay-tiwari333/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
@@ -124,6 +125,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/akshay-tiwari333/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/akshay-tiwari333/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0232-implement-queue-using-stacks](https://github.com/akshay-tiwari333/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/akshay-tiwari333/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/akshay-tiwari333/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -131,6 +133,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/akshay-tiwari333/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/akshay-tiwari333/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/akshay-tiwari333/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/akshay-tiwari333/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
@@ -141,4 +144,8 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/akshay-tiwari333/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/akshay-tiwari333/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->

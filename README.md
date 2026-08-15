@@ -102,6 +102,7 @@
 | [0076-minimum-window-substring](https://github.com/akshay-tiwari333/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/akshay-tiwari333/Leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/akshay-tiwari333/Leetcode/tree/master/0125-valid-palindrome) |
+| [0402-remove-k-digits](https://github.com/akshay-tiwari333/Leetcode/tree/master/0402-remove-k-digits) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/akshay-tiwari333/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Bit Manipulation
 |  |
@@ -132,6 +133,7 @@
 | [0042-trapping-rain-water](https://github.com/akshay-tiwari333/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/akshay-tiwari333/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0232-implement-queue-using-stacks](https://github.com/akshay-tiwari333/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/akshay-tiwari333/Leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/akshay-tiwari333/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/akshay-tiwari333/Leetcode/tree/master/0735-asteroid-collision) |
 | [2104-sum-of-subarray-ranges](https://github.com/akshay-tiwari333/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -140,6 +142,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/akshay-tiwari333/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/akshay-tiwari333/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/akshay-tiwari333/Leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/akshay-tiwari333/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/akshay-tiwari333/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
@@ -157,5 +160,6 @@
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/akshay-tiwari333/Leetcode/tree/master/0402-remove-k-digits) |
 | [0605-can-place-flowers](https://github.com/akshay-tiwari333/Leetcode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->

@@ -12,6 +12,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/akshay-tiwari333/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0283-move-zeroes](https://github.com/akshay-tiwari333/Leetcode/tree/master/0283-move-zeroes) |
 | [0503-next-greater-element-ii](https://github.com/akshay-tiwari333/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0605-can-place-flowers](https://github.com/akshay-tiwari333/Leetcode/tree/master/0605-can-place-flowers) |
 | [0735-asteroid-collision](https://github.com/akshay-tiwari333/Leetcode/tree/master/0735-asteroid-collision) |
 | [0989-add-to-array-form-of-integer](https://github.com/akshay-tiwari333/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1406-stone-game-iii](https://github.com/akshay-tiwari333/Leetcode/tree/master/1406-stone-game-iii) |
@@ -151,4 +152,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/akshay-tiwari333/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/akshay-tiwari333/Leetcode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->

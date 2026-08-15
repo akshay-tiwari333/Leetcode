@@ -17,6 +17,7 @@
 | [0735-asteroid-collision](https://github.com/akshay-tiwari333/Leetcode/tree/master/0735-asteroid-collision) |
 | [0989-add-to-array-form-of-integer](https://github.com/akshay-tiwari333/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1406-stone-game-iii](https://github.com/akshay-tiwari333/Leetcode/tree/master/1406-stone-game-iii) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/akshay-tiwari333/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2104-sum-of-subarray-ranges](https://github.com/akshay-tiwari333/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/akshay-tiwari333/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akshay-tiwari333/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -114,6 +115,7 @@
 | [0067-add-binary](https://github.com/akshay-tiwari333/Leetcode/tree/master/0067-add-binary) |
 | [0495-teemo-attacking](https://github.com/akshay-tiwari333/Leetcode/tree/master/0495-teemo-attacking) |
 | [0735-asteroid-collision](https://github.com/akshay-tiwari333/Leetcode/tree/master/0735-asteroid-collision) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/akshay-tiwari333/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Quicksort
 |  |
 | ------- |
@@ -136,6 +138,7 @@
 | [0402-remove-k-digits](https://github.com/akshay-tiwari333/Leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/akshay-tiwari333/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/akshay-tiwari333/Leetcode/tree/master/0735-asteroid-collision) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/akshay-tiwari333/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2104-sum-of-subarray-ranges](https://github.com/akshay-tiwari333/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -153,6 +156,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/akshay-tiwari333/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/akshay-tiwari333/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |

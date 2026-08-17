@@ -84,6 +84,7 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/akshay-tiwari333/Leetcode/tree/master/0047-permutations-ii) |
+| [0257-binary-tree-paths](https://github.com/akshay-tiwari333/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Linked List
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 | [0076-minimum-window-substring](https://github.com/akshay-tiwari333/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/akshay-tiwari333/Leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/akshay-tiwari333/Leetcode/tree/master/0125-valid-palindrome) |
+| [0257-binary-tree-paths](https://github.com/akshay-tiwari333/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/akshay-tiwari333/Leetcode/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/akshay-tiwari333/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/akshay-tiwari333/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -175,11 +177,13 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/akshay-tiwari333/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/akshay-tiwari333/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/akshay-tiwari333/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/akshay-tiwari333/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/akshay-tiwari333/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/akshay-tiwari333/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/akshay-tiwari333/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -191,6 +195,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/akshay-tiwari333/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/akshay-tiwari333/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/akshay-tiwari333/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/akshay-tiwari333/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |

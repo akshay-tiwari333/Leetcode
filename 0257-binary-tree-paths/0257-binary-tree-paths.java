@@ -21,13 +21,18 @@ class Solution {
         
     }
     public void helper(TreeNode root,String s,List<String> ans){
-        if(root==null) return ;
-        if(root.left==null && root.right==null){
-          s=s+root.val;
-          ans.add(s);
-        }
-        helper(root.left,s+root.val+"->",ans);
-         helper(root.right,s+root.val+"->",ans);
+       
+    if(root == null) return;
+
+    s = s + root.val;    
+
+    if(root.left == null && root.right == null){
+        ans.add(s);
+        return;
+    }
+
+    helper(root.left, s + "->", ans);
+    helper(root.right, s + "->", ans);
 
     }
 }

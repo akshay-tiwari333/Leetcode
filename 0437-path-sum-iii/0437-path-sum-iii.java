@@ -23,7 +23,7 @@ class Solution {
     }
     public int pathSum(TreeNode root, int targetSum) {
         if(root==null) return 0;
-        int count=noOfPath(root,(long)targetSum);
+        int count=noOfPath(root,targetSum);
         count+=pathSum(root.left,targetSum)+pathSum(root.right,targetSum);
         return count;
         

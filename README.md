@@ -54,6 +54,7 @@
 | [1406-stone-game-iii](https://github.com/akshay-tiwari333/Leetcode/tree/master/1406-stone-game-iii) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/akshay-tiwari333/Leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akshay-tiwari333/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/akshay-tiwari333/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
 | ------- |

@@ -23,6 +23,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/akshay-tiwari333/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2104-sum-of-subarray-ranges](https://github.com/akshay-tiwari333/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/akshay-tiwari333/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2733-neither-minimum-nor-maximum](https://github.com/akshay-tiwari333/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akshay-tiwari333/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akshay-tiwari333/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/akshay-tiwari333/Leetcode/tree/master/3731-find-missing-elements) |
@@ -44,6 +45,7 @@
 | [0049-group-anagrams](https://github.com/akshay-tiwari333/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/akshay-tiwari333/Leetcode/tree/master/0056-merge-intervals) |
 | [0414-third-maximum-number](https://github.com/akshay-tiwari333/Leetcode/tree/master/0414-third-maximum-number) |
+| [2733-neither-minimum-nor-maximum](https://github.com/akshay-tiwari333/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3731-find-missing-elements](https://github.com/akshay-tiwari333/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |

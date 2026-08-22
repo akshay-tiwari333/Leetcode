@@ -1,21 +1,25 @@
 class Solution {
     public int thirdMax(int[] nums) {
-        Set<Integer> hs=new HashSet<>();
+        long a=Long.MIN_VALUE;
+        long b=Long.MIN_VALUE;
+        long c=Long.MIN_VALUE;
         for(int i=0;i<nums.length;i++){
-            hs.add(nums[i]);
+            if(nums[i]==a || nums[i]==b || nums[i]==c) continue;
+            if(nums[i]>a){
+                c=b;
+                b=a;
+                a=nums[i];
+            }
+            else if(nums[i]>b){
+                c=b;
+                b=nums[i];
+            }
+            else if(nums[i]>c){
+                c=nums[i];
+            }
         }
-        if(hs.size() < 3){
-    return Collections.max(hs);
-}
-        int[] arr=new int[hs.size()];
-        int z=0;
-        for(int j: hs){
-            arr[z++]=j;
-
-        }
-        Arrays.sort(arr);
-        return arr[arr.length-3];
-
+        if(c==Long.MIN_VALUE) return (int)a;
+        return (int)c;
         
     }
 }

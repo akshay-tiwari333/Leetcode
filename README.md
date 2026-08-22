@@ -13,6 +13,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akshay-tiwari333/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/akshay-tiwari333/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0283-move-zeroes](https://github.com/akshay-tiwari333/Leetcode/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/akshay-tiwari333/Leetcode/tree/master/0414-third-maximum-number) |
 | [0495-teemo-attacking](https://github.com/akshay-tiwari333/Leetcode/tree/master/0495-teemo-attacking) |
 | [0503-next-greater-element-ii](https://github.com/akshay-tiwari333/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/akshay-tiwari333/Leetcode/tree/master/0605-can-place-flowers) |
@@ -42,6 +43,7 @@
 | [0047-permutations-ii](https://github.com/akshay-tiwari333/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/akshay-tiwari333/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/akshay-tiwari333/Leetcode/tree/master/0056-merge-intervals) |
+| [0414-third-maximum-number](https://github.com/akshay-tiwari333/Leetcode/tree/master/0414-third-maximum-number) |
 | [3731-find-missing-elements](https://github.com/akshay-tiwari333/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |

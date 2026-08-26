@@ -15,6 +15,7 @@
 | [0164-maximum-gap](https://github.com/akshay-tiwari333/Leetcode/tree/master/0164-maximum-gap) |
 | [0283-move-zeroes](https://github.com/akshay-tiwari333/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/akshay-tiwari333/Leetcode/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/akshay-tiwari333/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0495-teemo-attacking](https://github.com/akshay-tiwari333/Leetcode/tree/master/0495-teemo-attacking) |
 | [0503-next-greater-element-ii](https://github.com/akshay-tiwari333/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/akshay-tiwari333/Leetcode/tree/master/0605-can-place-flowers) |
@@ -69,6 +70,7 @@
 | [0005-longest-palindromic-substring](https://github.com/akshay-tiwari333/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/akshay-tiwari333/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0091-decode-ways](https://github.com/akshay-tiwari333/Leetcode/tree/master/0091-decode-ways) |
+| [0416-partition-equal-subset-sum](https://github.com/akshay-tiwari333/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [1406-stone-game-iii](https://github.com/akshay-tiwari333/Leetcode/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
@@ -286,4 +288,12 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/akshay-tiwari333/Leetcode/tree/master/0164-maximum-gap) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/akshay-tiwari333/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/akshay-tiwari333/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->

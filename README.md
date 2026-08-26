@@ -16,6 +16,7 @@
 | [0283-move-zeroes](https://github.com/akshay-tiwari333/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/akshay-tiwari333/Leetcode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/akshay-tiwari333/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/akshay-tiwari333/Leetcode/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/akshay-tiwari333/Leetcode/tree/master/0495-teemo-attacking) |
 | [0503-next-greater-element-ii](https://github.com/akshay-tiwari333/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/akshay-tiwari333/Leetcode/tree/master/0605-can-place-flowers) |
@@ -71,6 +72,7 @@
 | [0042-trapping-rain-water](https://github.com/akshay-tiwari333/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0091-decode-ways](https://github.com/akshay-tiwari333/Leetcode/tree/master/0091-decode-ways) |
 | [0416-partition-equal-subset-sum](https://github.com/akshay-tiwari333/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/akshay-tiwari333/Leetcode/tree/master/0494-target-sum) |
 | [1406-stone-game-iii](https://github.com/akshay-tiwari333/Leetcode/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
@@ -103,6 +105,7 @@
 | [0047-permutations-ii](https://github.com/akshay-tiwari333/Leetcode/tree/master/0047-permutations-ii) |
 | [0113-path-sum-ii](https://github.com/akshay-tiwari333/Leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/akshay-tiwari333/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/akshay-tiwari333/Leetcode/tree/master/0494-target-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -292,8 +295,10 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/akshay-tiwari333/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/akshay-tiwari333/Leetcode/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/akshay-tiwari333/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/akshay-tiwari333/Leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->

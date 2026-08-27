@@ -23,6 +23,7 @@
 | [0605-can-place-flowers](https://github.com/akshay-tiwari333/Leetcode/tree/master/0605-can-place-flowers) |
 | [0735-asteroid-collision](https://github.com/akshay-tiwari333/Leetcode/tree/master/0735-asteroid-collision) |
 | [0989-add-to-array-form-of-integer](https://github.com/akshay-tiwari333/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
+| [1046-last-stone-weight](https://github.com/akshay-tiwari333/Leetcode/tree/master/1046-last-stone-weight) |
 | [1406-stone-game-iii](https://github.com/akshay-tiwari333/Leetcode/tree/master/1406-stone-game-iii) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/akshay-tiwari333/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2104-sum-of-subarray-ranges](https://github.com/akshay-tiwari333/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -306,4 +307,8 @@
 | [0416-partition-equal-subset-sum](https://github.com/akshay-tiwari333/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/akshay-tiwari333/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/akshay-tiwari333/Leetcode/tree/master/0494-target-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/akshay-tiwari333/Leetcode/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->

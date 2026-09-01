@@ -15,6 +15,7 @@
 | [0139-word-break](https://github.com/akshay-tiwari333/Leetcode/tree/master/0139-word-break) |
 | [0164-maximum-gap](https://github.com/akshay-tiwari333/Leetcode/tree/master/0164-maximum-gap) |
 | [0283-move-zeroes](https://github.com/akshay-tiwari333/Leetcode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/akshay-tiwari333/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0414-third-maximum-number](https://github.com/akshay-tiwari333/Leetcode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/akshay-tiwari333/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/akshay-tiwari333/Leetcode/tree/master/0474-ones-and-zeroes) |
@@ -79,6 +80,7 @@
 | [0042-trapping-rain-water](https://github.com/akshay-tiwari333/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0091-decode-ways](https://github.com/akshay-tiwari333/Leetcode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/akshay-tiwari333/Leetcode/tree/master/0139-word-break) |
+| [0300-longest-increasing-subsequence](https://github.com/akshay-tiwari333/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/akshay-tiwari333/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/akshay-tiwari333/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/akshay-tiwari333/Leetcode/tree/master/0494-target-sum) |
@@ -334,4 +336,12 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/akshay-tiwari333/Leetcode/tree/master/0139-word-break) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/akshay-tiwari333/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/akshay-tiwari333/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->

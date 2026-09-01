@@ -28,6 +28,7 @@
 | [1046-last-stone-weight](https://github.com/akshay-tiwari333/Leetcode/tree/master/1046-last-stone-weight) |
 | [1406-stone-game-iii](https://github.com/akshay-tiwari333/Leetcode/tree/master/1406-stone-game-iii) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/akshay-tiwari333/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/akshay-tiwari333/Leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/akshay-tiwari333/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/akshay-tiwari333/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/akshay-tiwari333/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -83,6 +84,7 @@
 | [0494-target-sum](https://github.com/akshay-tiwari333/Leetcode/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/akshay-tiwari333/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1406-stone-game-iii](https://github.com/akshay-tiwari333/Leetcode/tree/master/1406-stone-game-iii) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/akshay-tiwari333/Leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Minimax
 |  |
 | ------- |

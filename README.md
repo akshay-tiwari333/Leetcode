@@ -41,6 +41,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akshay-tiwari333/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/akshay-tiwari333/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/akshay-tiwari333/Leetcode/tree/master/3731-find-missing-elements) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/akshay-tiwari333/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/akshay-tiwari333/Leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akshay-tiwari333/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/akshay-tiwari333/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/akshay-tiwari333/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |

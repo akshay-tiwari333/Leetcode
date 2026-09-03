@@ -29,6 +29,7 @@
 | [0735-asteroid-collision](https://github.com/akshay-tiwari333/Leetcode/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/akshay-tiwari333/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0989-add-to-array-form-of-integer](https://github.com/akshay-tiwari333/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/akshay-tiwari333/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/akshay-tiwari333/Leetcode/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/akshay-tiwari333/Leetcode/tree/master/1048-longest-string-chain) |
 | [1406-stone-game-iii](https://github.com/akshay-tiwari333/Leetcode/tree/master/1406-stone-game-iii) |
@@ -361,6 +362,7 @@
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/akshay-tiwari333/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/akshay-tiwari333/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/akshay-tiwari333/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |

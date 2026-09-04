@@ -104,6 +104,7 @@
 | [0647-palindromic-substrings](https://github.com/akshay-tiwari333/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/akshay-tiwari333/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1048-longest-string-chain](https://github.com/akshay-tiwari333/Leetcode/tree/master/1048-longest-string-chain) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/akshay-tiwari333/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/akshay-tiwari333/Leetcode/tree/master/1406-stone-game-iii) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/akshay-tiwari333/Leetcode/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/akshay-tiwari333/Leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -171,6 +172,7 @@
 | [0647-palindromic-substrings](https://github.com/akshay-tiwari333/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0844-backspace-string-compare](https://github.com/akshay-tiwari333/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1048-longest-string-chain](https://github.com/akshay-tiwari333/Leetcode/tree/master/1048-longest-string-chain) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/akshay-tiwari333/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/akshay-tiwari333/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akshay-tiwari333/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/akshay-tiwari333/Leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |

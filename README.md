@@ -93,6 +93,7 @@
 | [0005-longest-palindromic-substring](https://github.com/akshay-tiwari333/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/akshay-tiwari333/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0091-decode-ways](https://github.com/akshay-tiwari333/Leetcode/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/akshay-tiwari333/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/akshay-tiwari333/Leetcode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/akshay-tiwari333/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/akshay-tiwari333/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -164,6 +165,7 @@
 | [0067-add-binary](https://github.com/akshay-tiwari333/Leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/akshay-tiwari333/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/akshay-tiwari333/Leetcode/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/akshay-tiwari333/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/akshay-tiwari333/Leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/akshay-tiwari333/Leetcode/tree/master/0139-word-break) |
 | [0257-binary-tree-paths](https://github.com/akshay-tiwari333/Leetcode/tree/master/0257-binary-tree-paths) |

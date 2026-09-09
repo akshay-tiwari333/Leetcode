@@ -29,6 +29,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/akshay-tiwari333/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0735-asteroid-collision](https://github.com/akshay-tiwari333/Leetcode/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/akshay-tiwari333/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0980-unique-paths-iii](https://github.com/akshay-tiwari333/Leetcode/tree/master/0980-unique-paths-iii) |
 | [0989-add-to-array-form-of-integer](https://github.com/akshay-tiwari333/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/akshay-tiwari333/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/akshay-tiwari333/Leetcode/tree/master/1046-last-stone-weight) |
@@ -152,6 +153,7 @@
 | [0113-path-sum-ii](https://github.com/akshay-tiwari333/Leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/akshay-tiwari333/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/akshay-tiwari333/Leetcode/tree/master/0494-target-sum) |
+| [0980-unique-paths-iii](https://github.com/akshay-tiwari333/Leetcode/tree/master/0980-unique-paths-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -192,6 +194,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/akshay-tiwari333/Leetcode/tree/master/0067-add-binary) |
+| [0980-unique-paths-iii](https://github.com/akshay-tiwari333/Leetcode/tree/master/0980-unique-paths-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -406,4 +409,9 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/akshay-tiwari333/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0980-unique-paths-iii](https://github.com/akshay-tiwari333/Leetcode/tree/master/0980-unique-paths-iii) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/akshay-tiwari333/Leetcode/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->

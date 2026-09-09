@@ -81,6 +81,7 @@
 | [0002-add-two-numbers](https://github.com/akshay-tiwari333/Leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/akshay-tiwari333/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/akshay-tiwari333/Leetcode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/akshay-tiwari333/Leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/akshay-tiwari333/Leetcode/tree/master/0067-add-binary) |
 | [0368-largest-divisible-subset](https://github.com/akshay-tiwari333/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0989-add-to-array-form-of-integer](https://github.com/akshay-tiwari333/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
@@ -96,6 +97,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akshay-tiwari333/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/akshay-tiwari333/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/akshay-tiwari333/Leetcode/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/akshay-tiwari333/Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/akshay-tiwari333/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/akshay-tiwari333/Leetcode/tree/master/0139-word-break) |
@@ -394,4 +396,8 @@
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/akshay-tiwari333/Leetcode/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [3903-smallest-stable-index-i](https://github.com/akshay-tiwari333/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/akshay-tiwari333/Leetcode/tree/master/3904-smallest-stable-index-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/akshay-tiwari333/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

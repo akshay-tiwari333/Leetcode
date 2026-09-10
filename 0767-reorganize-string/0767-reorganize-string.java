@@ -1,6 +1,5 @@
 class Solution {
     public String reorganizeString(String s) {
-        
         Map<Character,Integer> hm=new HashMap<>();
         for(int i=0;i<s.length();i++){
             hm.put(s.charAt(i),hm.getOrDefault(s.charAt(i),0)+1);
@@ -10,34 +9,37 @@ class Solution {
                 return "";
             }
         }
-        int max=Integer.MIN_VALUE;
+        
         char ch=' ';
-        for(char ans: hm.keySet()){
-            if(hm.get(ans)>max){
-                max=hm.get(ans);
-                ch=ans;
+        int max=0;
+        for(char key: hm.keySet()){
+            if(hm.get(key)>max){
+                max=hm.get(key);
+                ch=key;
             }
         }
+        char[] arr=new char[s.length()];
         int i=0;
-        char[] st=new char[s.length()];
         while(hm.get(ch)>0){
-             if(i>=s.length()) i=1;
-            st[i]=ch;
+            if(i>=arr.length) i=1;
+            arr[i]=ch;
             i=i+2;
-             hm.put(ch,hm.get(ch)-1); 
+            hm.put(ch,hm.get(ch)-1);
         }
-        for(char in='a';in<='z';in++){
-            if(!hm.containsKey(in)) continue;
+        for(char a='a'; a<='z';a++){
+            if(!hm.containsKey(a)) continue;
             else{
-           while(hm.get(in)>0){
-            if(i>=s.length()) i=1;
-            st[i]=in;
+                while(hm.get(a)>0){
+                     if(i>=arr.length) i=1;
+            arr[i]=a;
             i=i+2;
-             hm.put(in,hm.get(in)-1);
-           }
+            hm.put(a,hm.get(a)-1);
+                }
+
+            }
         }
-        }
-        return new String(st);
+        return new String(arr);
+
         
     }
 }

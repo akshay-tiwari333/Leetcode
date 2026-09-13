@@ -420,5 +420,6 @@
 ## Database
 |  |
 | ------- |
+| [0620-not-boring-movies](https://github.com/akshay-tiwari333/Leetcode/tree/master/0620-not-boring-movies) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/akshay-tiwari333/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->

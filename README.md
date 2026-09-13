@@ -417,4 +417,8 @@
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/akshay-tiwari333/Leetcode/tree/master/0980-unique-paths-iii) |
+## Database
+|  |
+| ------- |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/akshay-tiwari333/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->

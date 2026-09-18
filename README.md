@@ -296,6 +296,7 @@
 | [0257-binary-tree-paths](https://github.com/akshay-tiwari333/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/akshay-tiwari333/Leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/akshay-tiwari333/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/akshay-tiwari333/Leetcode/tree/master/0547-number-of-provinces) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/akshay-tiwari333/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -307,6 +308,7 @@
 | [0112-path-sum](https://github.com/akshay-tiwari333/Leetcode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/akshay-tiwari333/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/akshay-tiwari333/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/akshay-tiwari333/Leetcode/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -431,4 +433,12 @@
 | [1327-list-the-products-ordered-in-a-period](https://github.com/akshay-tiwari333/Leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/akshay-tiwari333/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/akshay-tiwari333/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/akshay-tiwari333/Leetcode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/akshay-tiwari333/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->

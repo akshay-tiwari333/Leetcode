@@ -13,22 +13,20 @@ class Solution {
             ls.get(b).add(a);
         }
         
-        bfs(ls,s,v);
+        dfs(ls,s,v);
         return v[e];
         
     }
-    public void bfs(List<List<Integer>> ans,int i,boolean[] v){
+    public void dfs(List<List<Integer>> ans,int i,boolean[] v){
         v[i]=true;
-        Queue<Integer> q=new LinkedList<>();
-        q.add(i);
-        while(q.size()>0){
-            int p=q.poll();
-            for(int e : ans.get(p)){
-                if(v[e]==false){
-                    v[e]=true;
-                    q.add(e);
-                }
+        for(int j: ans.get(i)){
+            if(v[j]==false){
+                v[j]=true;
+                dfs(ans,j,v);
             }
         }
+      
+       
+     
     }
 }

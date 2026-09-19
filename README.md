@@ -15,6 +15,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/akshay-tiwari333/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/akshay-tiwari333/Leetcode/tree/master/0139-word-break) |
 | [0164-maximum-gap](https://github.com/akshay-tiwari333/Leetcode/tree/master/0164-maximum-gap) |
+| [0200-number-of-islands](https://github.com/akshay-tiwari333/Leetcode/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/akshay-tiwari333/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/akshay-tiwari333/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/akshay-tiwari333/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -291,6 +292,7 @@
 | [0113-path-sum-ii](https://github.com/akshay-tiwari333/Leetcode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/akshay-tiwari333/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/akshay-tiwari333/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0200-number-of-islands](https://github.com/akshay-tiwari333/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/akshay-tiwari333/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akshay-tiwari333/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/akshay-tiwari333/Leetcode/tree/master/0257-binary-tree-paths) |
@@ -309,6 +311,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/akshay-tiwari333/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/akshay-tiwari333/Leetcode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/akshay-tiwari333/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/akshay-tiwari333/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/akshay-tiwari333/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/akshay-tiwari333/Leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/akshay-tiwari333/Leetcode/tree/master/0841-keys-and-rooms) |
@@ -421,6 +424,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/akshay-tiwari333/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0200-number-of-islands](https://github.com/akshay-tiwari333/Leetcode/tree/master/0200-number-of-islands) |
 | [0980-unique-paths-iii](https://github.com/akshay-tiwari333/Leetcode/tree/master/0980-unique-paths-iii) |
 ## Hamiltonian Path
 |  |
@@ -440,6 +444,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/akshay-tiwari333/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/akshay-tiwari333/Leetcode/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/akshay-tiwari333/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory

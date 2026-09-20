@@ -19,6 +19,7 @@
 | [0164-maximum-gap](https://github.com/akshay-tiwari333/Leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshay-tiwari333/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/akshay-tiwari333/Leetcode/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/akshay-tiwari333/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/akshay-tiwari333/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/akshay-tiwari333/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/akshay-tiwari333/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -428,6 +429,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/akshay-tiwari333/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/akshay-tiwari333/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/akshay-tiwari333/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/akshay-tiwari333/Leetcode/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |

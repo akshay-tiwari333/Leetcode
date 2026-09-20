@@ -4,11 +4,11 @@ class Solution {
         for(int i=0;i<t.length();i++){
             hm.put(t.charAt(i),hm.getOrDefault(t.charAt(i),0)+1);
         }
-        int si=-1;
-        int c=hm.size();
         int j=0;
         int min=Integer.MAX_VALUE;
-        for(int i=0;i<s.length();i++){
+        int c=hm.size();
+        int si=-1;
+        for(int i=0;i<s.length();i++)  {
             if(hm.containsKey(s.charAt(i))){
                 hm.put(s.charAt(i),hm.get(s.charAt(i))-1);
                 if(hm.get(s.charAt(i))==0){
@@ -16,7 +16,7 @@ class Solution {
                 }
             }
             while(c==0){
-                if(min>(i-j+1)){
+                if((i-j+1)<min){
                     min=i-j+1;
                     si=j;
                 }
@@ -27,11 +27,11 @@ class Solution {
                     }
                 }
                 j++;
-
             }
         }
-        if( min==Integer.MAX_VALUE) return "";
+        if(min==Integer.MAX_VALUE) return "";
         return s.substring(si,si+min);
+
         
     }
 }

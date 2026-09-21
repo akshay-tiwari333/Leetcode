@@ -1,36 +1,35 @@
 class Solution {
     public int splitArray(int[] nums, int k) {
-        int max=0;
-        int sum=0;
+        int low=Integer.MIN_VALUE;
+        int high=0;
         for(int i=0;i<nums.length;i++){
-            max=Math.max(max,nums[i]);
-            sum=sum+nums[i];
+            high=high+nums[i];
+            low=Math.max(low,nums[i]);
         }
-        int s=max;
-        int e=sum;
-        while(s<=e){
-            int mid=s+(e-s)/2;
-            int c=helper(nums,mid);
-            if(c>k){
-                s=mid+1;
+        while(low<=high){
+            int mid=low+(high-low)/2;
+            int ans=helper(nums,mid);
+            if(ans<=k){
+                high=mid-1;
             }
             else{
-                e=mid-1;
+                low=mid+1;
             }
         }
-        return s;
+        return low;
+      
         
     }
-    public int helper(int[] nums,int maxPages){
+    public int helper(int[] nums,int max){
         int s=1;
-        int ans=0;
+        int p=0;
         for(int i=0;i<nums.length;i++){
-            if(ans+nums[i]<=maxPages){
-                ans=ans+nums[i];
+            if(p+nums[i]<=max){
+                p=p+nums[i];
             }
             else{
                 s++;
-                ans=nums[i];
+                p=nums[i];
             }
         }
         return s;

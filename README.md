@@ -73,6 +73,7 @@
 | [0139-word-break](https://github.com/akshay-tiwari333/Leetcode/tree/master/0139-word-break) |
 | [0525-contiguous-array](https://github.com/akshay-tiwari333/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/akshay-tiwari333/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/akshay-tiwari333/Leetcode/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/akshay-tiwari333/Leetcode/tree/master/0767-reorganize-string) |
 | [1048-longest-string-chain](https://github.com/akshay-tiwari333/Leetcode/tree/master/1048-longest-string-chain) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/akshay-tiwari333/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -165,6 +166,7 @@
 | [0125-valid-palindrome](https://github.com/akshay-tiwari333/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshay-tiwari333/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/akshay-tiwari333/Leetcode/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/akshay-tiwari333/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/akshay-tiwari333/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0844-backspace-string-compare](https://github.com/akshay-tiwari333/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1048-longest-string-chain](https://github.com/akshay-tiwari333/Leetcode/tree/master/1048-longest-string-chain) |
@@ -206,6 +208,7 @@
 | [0402-remove-k-digits](https://github.com/akshay-tiwari333/Leetcode/tree/master/0402-remove-k-digits) |
 | [0474-ones-and-zeroes](https://github.com/akshay-tiwari333/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/akshay-tiwari333/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/akshay-tiwari333/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/akshay-tiwari333/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0767-reorganize-string](https://github.com/akshay-tiwari333/Leetcode/tree/master/0767-reorganize-string) |
 | [0844-backspace-string-compare](https://github.com/akshay-tiwari333/Leetcode/tree/master/0844-backspace-string-compare) |
@@ -239,6 +242,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshay-tiwari333/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/akshay-tiwari333/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0567-permutation-in-string](https://github.com/akshay-tiwari333/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/akshay-tiwari333/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akshay-tiwari333/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akshay-tiwari333/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |

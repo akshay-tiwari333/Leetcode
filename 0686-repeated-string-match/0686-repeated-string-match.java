@@ -9,12 +9,15 @@ class Solution {
             c++;
         }
 
-        if (sb.toString().contains(b)) {
-            return c;
-        }
+        while (sb.length() < b.length() + a.length()) {
 
-        sb.append(a);
-        c++;
+            if (sb.toString().contains(b)) {
+                return c;
+            }
+
+            sb.append(a);
+            c++;
+        }
 
         if (sb.toString().contains(b)) {
             return c;

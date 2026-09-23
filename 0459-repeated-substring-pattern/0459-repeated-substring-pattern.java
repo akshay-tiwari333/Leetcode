@@ -3,11 +3,11 @@ class Solution {
 
         int n = s.length();
 
-        for(int j = 1; j < n; j++) {
+        for(int j = 1; j <= n / 2; j++) {
 
             String ans = s.substring(0, j);
 
-            if(n % ans.length() != 0)
+            if(n % j != 0)
                 continue;
 
             StringBuilder sb = new StringBuilder();

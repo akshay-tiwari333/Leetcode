@@ -9,11 +9,13 @@ class Solution {
 
             if(n % j != 0)
                 continue;
+                int t=n/ans.length();
 
             StringBuilder sb = new StringBuilder();
 
-            while(sb.length() < n) {
+            while(t>0) {
                 sb.append(ans);
+                t--;
             }
 
             if(sb.toString().equals(s))

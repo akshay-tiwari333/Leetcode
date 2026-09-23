@@ -3,7 +3,7 @@ class Solution {
 
         int n = s.length();
 
-        for(int j = 1; j <= n / 2; j++) {
+        for(int j = n/2; j >=1; j--) {
 
             String ans = s.substring(0, j);
 

@@ -216,6 +216,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/akshay-tiwari333/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/akshay-tiwari333/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/akshay-tiwari333/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0686-repeated-string-match](https://github.com/akshay-tiwari333/Leetcode/tree/master/0686-repeated-string-match) |
 | [0767-reorganize-string](https://github.com/akshay-tiwari333/Leetcode/tree/master/0767-reorganize-string) |
 | [0844-backspace-string-compare](https://github.com/akshay-tiwari333/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1048-longest-string-chain](https://github.com/akshay-tiwari333/Leetcode/tree/master/1048-longest-string-chain) |
@@ -503,16 +504,20 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshay-tiwari333/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/akshay-tiwari333/Leetcode/tree/master/0686-repeated-string-match) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshay-tiwari333/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/akshay-tiwari333/Leetcode/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshay-tiwari333/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/akshay-tiwari333/Leetcode/tree/master/0686-repeated-string-match) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshay-tiwari333/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/akshay-tiwari333/Leetcode/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->

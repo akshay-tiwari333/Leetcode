@@ -17,6 +17,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/akshay-tiwari333/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akshay-tiwari333/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/akshay-tiwari333/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/akshay-tiwari333/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/akshay-tiwari333/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/akshay-tiwari333/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/akshay-tiwari333/Leetcode/tree/master/0164-maximum-gap) |
@@ -75,6 +76,7 @@
 | [0076-minimum-window-substring](https://github.com/akshay-tiwari333/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akshay-tiwari333/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/akshay-tiwari333/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/akshay-tiwari333/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/akshay-tiwari333/Leetcode/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/akshay-tiwari333/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/akshay-tiwari333/Leetcode/tree/master/0525-contiguous-array) |
@@ -503,6 +505,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/akshay-tiwari333/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/akshay-tiwari333/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/akshay-tiwari333/Leetcode/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/akshay-tiwari333/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |

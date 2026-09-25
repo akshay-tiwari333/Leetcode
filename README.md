@@ -48,6 +48,7 @@
 | [1046-last-stone-weight](https://github.com/akshay-tiwari333/Leetcode/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/akshay-tiwari333/Leetcode/tree/master/1048-longest-string-chain) |
 | [1406-stone-game-iii](https://github.com/akshay-tiwari333/Leetcode/tree/master/1406-stone-game-iii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akshay-tiwari333/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/akshay-tiwari333/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/akshay-tiwari333/Leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/akshay-tiwari333/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -80,6 +81,7 @@
 | [0567-permutation-in-string](https://github.com/akshay-tiwari333/Leetcode/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/akshay-tiwari333/Leetcode/tree/master/0767-reorganize-string) |
 | [1048-longest-string-chain](https://github.com/akshay-tiwari333/Leetcode/tree/master/1048-longest-string-chain) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akshay-tiwari333/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/akshay-tiwari333/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akshay-tiwari333/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/akshay-tiwari333/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -257,6 +259,7 @@
 | [0076-minimum-window-substring](https://github.com/akshay-tiwari333/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/akshay-tiwari333/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/akshay-tiwari333/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akshay-tiwari333/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akshay-tiwari333/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akshay-tiwari333/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Manacher
@@ -454,6 +457,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/akshay-tiwari333/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/akshay-tiwari333/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/akshay-tiwari333/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akshay-tiwari333/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -467,6 +471,7 @@
 | [0525-contiguous-array](https://github.com/akshay-tiwari333/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/akshay-tiwari333/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/akshay-tiwari333/Leetcode/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akshay-tiwari333/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/akshay-tiwari333/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/akshay-tiwari333/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Combinatorics

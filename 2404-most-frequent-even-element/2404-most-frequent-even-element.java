@@ -9,14 +9,13 @@ class Solution {
         int max=Integer.MIN_VALUE;
         int maxe=-1;
         for(int key : hm.keySet()){
-            if(key%2==0){
+            
                 if(max<hm.get(key) ||
                 (hm.get(key)==max && key<maxe)){
                     max=hm.get(key);
                     maxe=key;
-                }
-                
-            }
+                }   
+            
         }
         return maxe;
         

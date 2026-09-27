@@ -51,6 +51,7 @@
 | [1048-longest-string-chain](https://github.com/akshay-tiwari333/Leetcode/tree/master/1048-longest-string-chain) |
 | [1406-stone-game-iii](https://github.com/akshay-tiwari333/Leetcode/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/akshay-tiwari333/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/akshay-tiwari333/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akshay-tiwari333/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/akshay-tiwari333/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akshay-tiwari333/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -88,6 +89,7 @@
 | [0567-permutation-in-string](https://github.com/akshay-tiwari333/Leetcode/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/akshay-tiwari333/Leetcode/tree/master/0767-reorganize-string) |
 | [1048-longest-string-chain](https://github.com/akshay-tiwari333/Leetcode/tree/master/1048-longest-string-chain) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/akshay-tiwari333/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akshay-tiwari333/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akshay-tiwari333/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/akshay-tiwari333/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -110,6 +112,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/akshay-tiwari333/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0767-reorganize-string](https://github.com/akshay-tiwari333/Leetcode/tree/master/0767-reorganize-string) |
 | [1048-longest-string-chain](https://github.com/akshay-tiwari333/Leetcode/tree/master/1048-longest-string-chain) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/akshay-tiwari333/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2733-neither-minimum-nor-maximum](https://github.com/akshay-tiwari333/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3731-find-missing-elements](https://github.com/akshay-tiwari333/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math

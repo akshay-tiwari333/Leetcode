@@ -2,7 +2,9 @@ class Solution {
     public int mostFrequentEven(int[] nums) {
         Map<Integer,Integer> hm=new HashMap<>();
         for(int i: nums){
+            if(i%2==0){
             hm.put(i,hm.getOrDefault(i,0)+1);
+            }
         }
         int max=Integer.MIN_VALUE;
         int maxe=-1;

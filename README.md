@@ -59,6 +59,7 @@
 | [2104-sum-of-subarray-ranges](https://github.com/akshay-tiwari333/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/akshay-tiwari333/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/akshay-tiwari333/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2404-most-frequent-even-element](https://github.com/akshay-tiwari333/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2733-neither-minimum-nor-maximum](https://github.com/akshay-tiwari333/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akshay-tiwari333/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akshay-tiwari333/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -89,6 +90,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akshay-tiwari333/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akshay-tiwari333/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/akshay-tiwari333/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2404-most-frequent-even-element](https://github.com/akshay-tiwari333/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akshay-tiwari333/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/akshay-tiwari333/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/akshay-tiwari333/Leetcode/tree/master/3731-find-missing-elements) |
@@ -414,6 +416,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/akshay-tiwari333/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/akshay-tiwari333/Leetcode/tree/master/0767-reorganize-string) |
+| [2404-most-frequent-even-element](https://github.com/akshay-tiwari333/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/akshay-tiwari333/Leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Bucket Sort
 |  |

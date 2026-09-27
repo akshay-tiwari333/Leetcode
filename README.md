@@ -61,6 +61,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/akshay-tiwari333/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/akshay-tiwari333/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/akshay-tiwari333/Leetcode/tree/master/2404-most-frequent-even-element) |
+| [2418-sort-the-people](https://github.com/akshay-tiwari333/Leetcode/tree/master/2418-sort-the-people) |
 | [2733-neither-minimum-nor-maximum](https://github.com/akshay-tiwari333/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akshay-tiwari333/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akshay-tiwari333/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -94,6 +95,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akshay-tiwari333/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/akshay-tiwari333/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/akshay-tiwari333/Leetcode/tree/master/2404-most-frequent-even-element) |
+| [2418-sort-the-people](https://github.com/akshay-tiwari333/Leetcode/tree/master/2418-sort-the-people) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akshay-tiwari333/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/akshay-tiwari333/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/akshay-tiwari333/Leetcode/tree/master/3731-find-missing-elements) |
@@ -113,6 +115,7 @@
 | [0767-reorganize-string](https://github.com/akshay-tiwari333/Leetcode/tree/master/0767-reorganize-string) |
 | [1048-longest-string-chain](https://github.com/akshay-tiwari333/Leetcode/tree/master/1048-longest-string-chain) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/akshay-tiwari333/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2418-sort-the-people](https://github.com/akshay-tiwari333/Leetcode/tree/master/2418-sort-the-people) |
 | [2733-neither-minimum-nor-maximum](https://github.com/akshay-tiwari333/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3731-find-missing-elements](https://github.com/akshay-tiwari333/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -245,6 +248,7 @@
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/akshay-tiwari333/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akshay-tiwari333/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/akshay-tiwari333/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2418-sort-the-people](https://github.com/akshay-tiwari333/Leetcode/tree/master/2418-sort-the-people) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akshay-tiwari333/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/akshay-tiwari333/Leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/akshay-tiwari333/Leetcode/tree/master/3498-reverse-degree-of-a-string) |

@@ -296,6 +296,7 @@
 | [0735-asteroid-collision](https://github.com/akshay-tiwari333/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/akshay-tiwari333/Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/akshay-tiwari333/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/akshay-tiwari333/Leetcode/tree/master/0901-online-stock-span) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/akshay-tiwari333/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2104-sum-of-subarray-ranges](https://github.com/akshay-tiwari333/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
@@ -306,11 +307,13 @@
 | [0402-remove-k-digits](https://github.com/akshay-tiwari333/Leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/akshay-tiwari333/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/akshay-tiwari333/Leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/akshay-tiwari333/Leetcode/tree/master/0901-online-stock-span) |
 | [2104-sum-of-subarray-ranges](https://github.com/akshay-tiwari333/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/akshay-tiwari333/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/akshay-tiwari333/Leetcode/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -568,4 +571,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/akshay-tiwari333/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/akshay-tiwari333/Leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->

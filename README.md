@@ -245,6 +245,7 @@
 | [0686-repeated-string-match](https://github.com/akshay-tiwari333/Leetcode/tree/master/0686-repeated-string-match) |
 | [0767-reorganize-string](https://github.com/akshay-tiwari333/Leetcode/tree/master/0767-reorganize-string) |
 | [0844-backspace-string-compare](https://github.com/akshay-tiwari333/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/akshay-tiwari333/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1048-longest-string-chain](https://github.com/akshay-tiwari333/Leetcode/tree/master/1048-longest-string-chain) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/akshay-tiwari333/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akshay-tiwari333/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -299,6 +300,7 @@
 | [0739-daily-temperatures](https://github.com/akshay-tiwari333/Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/akshay-tiwari333/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/akshay-tiwari333/Leetcode/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/akshay-tiwari333/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/akshay-tiwari333/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2104-sum-of-subarray-ranges](https://github.com/akshay-tiwari333/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
@@ -338,6 +340,7 @@
 | [0605-can-place-flowers](https://github.com/akshay-tiwari333/Leetcode/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/akshay-tiwari333/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0767-reorganize-string](https://github.com/akshay-tiwari333/Leetcode/tree/master/0767-reorganize-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/akshay-tiwari333/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/akshay-tiwari333/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Tree
 |  |
@@ -585,4 +588,8 @@
 | ------- |
 | [0901-online-stock-span](https://github.com/akshay-tiwari333/Leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/akshay-tiwari333/Leetcode/tree/master/0933-number-of-recent-calls) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/akshay-tiwari333/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->

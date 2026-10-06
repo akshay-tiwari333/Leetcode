@@ -43,6 +43,7 @@
 | [0735-asteroid-collision](https://github.com/akshay-tiwari333/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/akshay-tiwari333/Leetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/akshay-tiwari333/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/akshay-tiwari333/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/akshay-tiwari333/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0980-unique-paths-iii](https://github.com/akshay-tiwari333/Leetcode/tree/master/0980-unique-paths-iii) |
 | [0989-add-to-array-form-of-integer](https://github.com/akshay-tiwari333/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
@@ -278,6 +279,7 @@
 | [0076-minimum-window-substring](https://github.com/akshay-tiwari333/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/akshay-tiwari333/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/akshay-tiwari333/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/akshay-tiwari333/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akshay-tiwari333/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akshay-tiwari333/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akshay-tiwari333/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -319,6 +321,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/akshay-tiwari333/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/akshay-tiwari333/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/akshay-tiwari333/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/akshay-tiwari333/Leetcode/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/akshay-tiwari333/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -466,6 +469,7 @@
 | [0347-top-k-frequent-elements](https://github.com/akshay-tiwari333/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/akshay-tiwari333/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/akshay-tiwari333/Leetcode/tree/master/0767-reorganize-string) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/akshay-tiwari333/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1046-last-stone-weight](https://github.com/akshay-tiwari333/Leetcode/tree/master/1046-last-stone-weight) |
 ## Trie
 |  |
@@ -486,6 +490,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshay-tiwari333/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/akshay-tiwari333/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/akshay-tiwari333/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/akshay-tiwari333/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/akshay-tiwari333/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akshay-tiwari333/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Longest Increasing Subsequence
@@ -500,6 +505,7 @@
 | [0410-split-array-largest-sum](https://github.com/akshay-tiwari333/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/akshay-tiwari333/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/akshay-tiwari333/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/akshay-tiwari333/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/akshay-tiwari333/Leetcode/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akshay-tiwari333/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/akshay-tiwari333/Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -545,6 +551,7 @@
 ## Monotonic Queue
 |  |
 | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/akshay-tiwari333/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/akshay-tiwari333/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## String Matching
 |  |

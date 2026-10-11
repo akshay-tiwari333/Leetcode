@@ -211,12 +211,14 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/akshay-tiwari333/Leetcode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/akshay-tiwari333/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/akshay-tiwari333/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/akshay-tiwari333/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/akshay-tiwari333/Leetcode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/akshay-tiwari333/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 ## String
 |  |
 | ------- |
